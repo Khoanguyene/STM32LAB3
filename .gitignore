@@ -1,0 +1,17 @@
+# STM32CubeIDE generated files
+**/Debug/*
+!**/Debug/
+!**/Debug/*.hex
+**/Release/
+**/.metadata/
+**/.mxproject
+
+# Proteus local state and backups
+*.pdsbak
+*.workspace
+*.pdsprj.*.workspace
+
+# General temporary files
+*.log
+*.tmp
+*.swp
